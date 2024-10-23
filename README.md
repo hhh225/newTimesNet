@@ -1,5 +1,5 @@
 # Bipartite Dynamic Representations (BiDyn)
-
+有力第四彗星
 Bipartite Dynamic Representations (BiDyn) is a general approach to transductive node classification on dynamic bipartite graphs, with additional components for the task of detecting abusive behavior in online communities.   
 
 It consists of three main components:
